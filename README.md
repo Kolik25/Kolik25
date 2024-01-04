@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning: Coding, HTML, German
+- 🌱 I’m currently learning: Coding, JavaScript, German
+- 🔭 I’m currently working on more javascript projects
 - 😄 Pronouns: You can call me anything
 
 <!--
